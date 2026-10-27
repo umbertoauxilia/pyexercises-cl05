@@ -25,8 +25,13 @@ DELIVERABLE
 # 1. In:
 # 2. Process:
 # 3. Out:
-# 4. My message, and why:
+# 4. My message, and why: wrote a python file to print my name 5 times using print
 
 
 # Your code below
 print("hello,world!")
+print("1.hello")
+print("2.hello")
+print("3.hello")
+print("4.hello")
+print("5.hello")

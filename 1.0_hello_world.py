@@ -26,7 +26,9 @@ DELIVERABLE
 # 2. Process:
 # 3. Out:
 # 4. My message, and why: wrote a python file to print my name 5 times using print
-
+nome = "Umberto"
+for i in range(6):
+    print(nome)
 
 # Your code below
 print("hello,world!")

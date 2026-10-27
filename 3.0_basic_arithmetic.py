@@ -1,7 +1,7 @@
 """Exercise 3.0 — Computing with what the user typed
 
 WHAT THE PROGRAM MUST DO
-    Ask for two numbers and display the result of the four operations.
+    Ask for two numbers and display the result of the four operations..
 
 ANSWER THESE FIRST, in comments at the top of your file
     1. What goes in?

@@ -32,7 +32,7 @@ DELIVERABLE
 # 4. My two fields, and what I would do with them:
 
 
-# Your code below
+# Your code beloww
 
 name = input ("enter your name:")
 age = input ("enter your age:")

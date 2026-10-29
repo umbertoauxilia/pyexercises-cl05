@@ -25,10 +25,18 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My four orders, and which ones modify the original:
+# 1. In:The list of 8 prices from exercise 4.0
+# 2. Process:The program creates four new lists in different orders,without changing the original list.
+# 3. Out:The four lists, and at the end the original list, unchanged.
+# 4. My four orders, and which ones modify the original:cheapest first, most expensive first, backwards, as text.None of them modifies the original: they all create a NEW list.sort() and reverse() would modify it, so I did not use them.
 
 
 # Your code below
+prices = [450, 1200, 320, 890, 650, 280, 1500, 720]
+
+print("Cheapest first:", sorted(prices))
+print("Most expensive first:", sorted(prices, reverse=True))
+print("Backwards:", prices[::-1])
+print("As text:", sorted(prices, key=str))
+
+print("Original:", prices)

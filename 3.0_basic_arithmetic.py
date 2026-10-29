@@ -24,10 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What happens when the second number is zero, and why:
+# 1. In:Two numbers typed by the user
+# 2. Process: The program converts them to numbers (float) and calculates the sum, the difference, the multiplication and the division.
+# 3. Out: Four results on the screen
+# 4. What happens when the second number is zero, and why:The program shows the message "Cannot divide by zero" instead of the result. I chose this because the other three results can still be shown,
 
 
 # Your code below

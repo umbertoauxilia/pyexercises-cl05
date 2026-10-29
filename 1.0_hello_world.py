@@ -4,10 +4,10 @@ WHAT THE PROGRAM MUST DO
     Display a message of your choice, five times, with each line numbered.
 
 ANSWER THESE FIRST, in comments at the top of your file, before any code
-    1. What goes in? 
-    2. What happens to it?
-    3. What comes out?
-    4. What message did you choose, and why that one?
+    1. What goes in? a string and a number :how many times to show it (5)
+    2. What happens to it?The program repeats the message 5 times with a loop,and adds a line number in front of each one.
+    3. What comes out?5 lines on the screen, numbered 1 to 5, each with the message
+    4. What message did you choose, and why that one? 
 
 WHAT THE AI CANNOT KNOW
     The message is yours. Choose something you would actually want a program to say,
@@ -27,7 +27,7 @@ DELIVERABLE
 # 3. Out:
 # 4. My message, and why: wrote a python file to print my name 5 times using print
 nome = "Umberto"
-for i in range(6):
+for i in range(5):
     print(nome)
 
 # Your code below

@@ -3,7 +3,7 @@
 WHAT THE PROGRAM MUST DO
     Ask the user for a sentence, then display four different transformations of it.
 
-ANSWER THESE FIRST, in comments at the top of your file
+ANSWER THESE FIRST, in comments at the top of your fileb
     1. What goes in?A sentence typed by the user 
     2. What happens to it? The program changes the sentence in four different way
     3. What comes out? Four new versions of the sentence

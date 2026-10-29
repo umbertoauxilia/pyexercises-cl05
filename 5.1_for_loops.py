@@ -24,7 +24,7 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:he list of 8 prices from exercise 4.0
+# 1. In:The list of 8 prices from exercise 4.0
 # 2. Process: For each price, the program calculates its share of the total (%)
 # 3. Out: 8 lines, each with the position, the price and its share of the total
 # 4. What I compute for each item, and why it is worth showing: I compute for each item, and why it is worth showing:The share of the total budget. It shows which items take most of my budget.

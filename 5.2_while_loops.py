@@ -35,7 +35,7 @@ DELIVERABLE
 #    Stop when the answer is "yes". "Yes", "yes" and " yes " count as the same,
 #    because I use strip() and lower(). Maximum 3 attempts.
 #    The summary shows how many attempts were used and if the order was approved.
-# Your code below
+# Your code beloww
 attempts = 0
 approved = False
 
